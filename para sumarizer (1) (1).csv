@@ -1,0 +1,1037 @@
+Sentence,Label,para id
+Mahendra Singh Dhoni is an indian cricketer,1,1
+He was born on 1981,1,1
+He was a football palyer intially,0,1
+He is from ranchi,1,1
+He has won 3 Icc torunaments as Captain,1,1
+He likes Strawberries,0,1
+He is in Icc Hall of fame,1,1
+He captaied for csk ,0,1
+cinema is a popular form of entertainment enjoyed worldwide.,1,2
+It combines storytelling with visual and audio elements.,1,2
+Movies are usually shown in theatres or streamed online.,0,2
+Directors play a key role in shaping the film’s vision.,1,2
+Many people watch movies during weekends for relaxation.,0,2
+The film industry produces thousands of movies every year.,1,2
+"These films belong to genres like action, drama, and comedy.",0,2
+Actors bring characters to life through their performances.,1,2
+A camera is a device used to capture images and videos.,1,3
+It records light and converts it into visual content.,1,3
+"Cameras are used in photography, filmmaking, and surveillance.",1,3
+Modern cameras come with digital sensors instead of film.,0,3
+Lenses help focus light onto the sensor for clear images.,1,3
+Many smartphones today have high-quality built-in cameras.,0,3
+Features like zoom and autofocus improve image quality.,0,3
+Professional cameras are often used by photographers,1,3
+"A soundtrack is the collection of music used in a film, television show, or video.",1,4
+It includes background scores and songs that enhance the viewing experience.,1,4
+Soundtracks play an important role in setting the mood and emotion of a scene.,1,4
+Many soundtracks are released as albums after the movie’s release.,0,4
+Composers create original music specifically for films and shows.,1,4
+Some soundtracks become very popular among audiences.,0,4
+Music in a soundtrack can influence how viewers perceive a story.,0,4
+Streaming platforms often feature soundtracks separately for listeners.,1,4
+Emotions are psychological states that influence how people think and behave.,1,5
+"They include feelings such as happiness, sadness, anger, and fear.",1,5
+Emotions play an important role in decision-making and human interactions.,1,5
+They can be triggered by internal thoughts or external events.,1,5
+People express emotions through facial expressions and body language.,0,5
+Different cultures may interpret emotions in various ways.,0,5
+Strong emotions can sometimes affect physical health.,1,5
+Music and movies often evoke emotional responses in audiences.,0,5
+A classroom is a place where students gather to learn under the guidance of a teacher.,1,6
+It provides an environment for education and knowledge sharing.,1,6
+"Classrooms are equipped with desks, boards, and teaching materials.",0,6
+Teachers use different methods to explain concepts to students.,1,6
+Interaction between students and teachers improves understanding.,1,6
+Some classrooms use digital tools like projectors and computers.,0,6
+A positive classroom atmosphere helps students focus and participate.,1,6
+Students often work in groups to complete assignments.,0,6
+Politics is the process of making decisions that apply to members of a group or society.,1,7
+It involves the exercise of power and governance in a country or community.,1,7
+Governments create and enforce laws to maintain order and stability.,1,7
+"Political systems include democracy, monarchy, and dictatorship.",0,7
+Citizens participate in politics through voting and public discussions.,1,7
+Elections are held to choose leaders and representatives.,1,7
+Political debates often focus on policies and national issues.,0,7
+Media plays a role in spreading political information to the public.,0,7
+A college is an educational institution where students pursue higher studies after school.,1,8
+It offers various courses and degrees in different fields of study.,1,8
+"Students attend lectures, complete assignments, and take exams.",0,8
+Colleges help students develop knowledge and professional skills.,1,8
+Professors and faculty guide students in their academic journey.,1,8
+"Many colleges have libraries, labs, and sports facilities.",0,8
+College life also includes extracurricular activities and social events.,0,8
+Graduating from college improves career opportunities for students.,1,8
+Coding is the process of writing instructions for computers using programming languages.,1,9
+"It allows developers to create software, websites, and applications.",1,9
+"Common programming languages include Python, Java, and C++.",1,9
+Coding requires logical thinking and problem-solving skills.,1,9
+Developers use code editors and tools to write and test programs.,0,9
+Debugging is the process of finding and fixing errors in code.,1,9
+Learning coding can open many career opportunities in technology.,1,9
+Many beginners start coding through online tutorials and courses.,0,9
+Artificial Intelligence is the field of creating machines that can perform tasks requiring human intelligence.,1,10
+"It includes abilities such as learning, reasoning, and problem-solving.",1,10
+AI systems use data and algorithms to make decisions.,1,10
+Machine learning is a major subset of AI that allows systems to learn from data.,1,10
+AI is used in applications like voice assistants and recommendation systems.,0,10
+Deep learning uses neural networks to process complex data.,0,10
+AI can improve efficiency and automation in many industries.,1,10
+Many companies invest heavily in AI research and development.,0,10
+Joseph Vijay Chandrasekhar,1,11
+"he was born on June 22, 1974",0,11
+Education Studied Visual Communication,1,11
+Faced criticism for acting and dancing,1,11
+Initial films were not very successful,0,11
+Breakthrough film: Poove Unakkaga,0,11
+Tamil Nadu State Film Award,0,11
+Encourages voting awareness and civic responsibility,0,11
+"refers to the movement of people, goods, or services from one place to another",1,11
+plays a vital role in economic development,1,12
+social connectivity,1,12
+daily life,1,12
+Transport systems can be classified into different types,0,12
+"road, rail, air, and water transport",0,12
+"distance, cost, speed, and capacity",1,12
+designed to improve efficiency,1,12
+reduce travel time,1,12
+environment,1,13
+refers to everything that surrounds us,0,13
+living and non-living things,1,13
+"natural components like air, water, land, plants, and animals",0,13
+"needed for life such as oxygen, food, water, and shelter",1,13
+Natural Environment,1,13
+Man-made Environment,0,13
+survival of all living organisms,0,13
+Freedom fighters are people who fought for their country’s independence,1,14
+They sacrificed their lives for the freedom of the nation,1,14
+Mahatma Gandhi led India through non-violence and truth,0,14
+Subhas Chandra Bose believed in armed struggle against British rule,0,14
+Bhagat Singh was a brave young revolutionary,1,14
+Freedom fighters showed great courage and patriotism,1,14
+Their sacrifices helped India gain independence in 1947,0,14
+We should respect and remember their contributions forever,1,14
+Artificial Intelligence is the ability of machines to think and learn like humans,1,15
+"It is used to perform tasks such as problem-solving, decision-making, and language understanding",1,15
+"AI is widely used in applications like self-driving cars, chatbots, and virtual assistants",1,15
+ChatGPT is an example of an AI system that can answer questions and generate text,1,15
+AI helps improve efficiency and accuracy in many industries,1,15
+"It is used in healthcare, education, finance, and transportation",1,15
+Machine learning is an important part of AI that allows systems to learn from data,0,15
+AI is shaping the future by making technology smarter and more useful,0,15
+Fruits are healthy and natural foods that come from plants and trees,0,16
+"Common fruits include apple, banana, mango, and orange",1,16
+Fruits help keep our body strong and improve our immunity,0,16
+Eating fruits daily is good for digestion and overall health,1,16
+"Some fruits are sweet, while others can be sour or juicy",1,16
+Fruits can be eaten raw or made into juices and salads,1,16
+Fruits make farmer happy,0,16
+They are an important part of a balanced diet,0,16
+Food is essential for the growth and survival of all living beings,0,17
+It provides energy and nutrients to our body,0,17
+"There are different types of food such as fruits, vegetables, grains, and proteins",1,17
+Healthy food helps us stay strong and prevents diseases.,0,17
+Junk food can be harmful if eaten too often,1,17
+Food can be cooked or eaten raw depending on the type,0,17
+A balanced diet includes all necessary nutrients in the right amount,1,17
+We should avoid wasting food and respect its value,0,17
+Google is a popular technology company,0,18
+It was founded by Larry Page and Sergey Brin,1,18
+Google is best known for its search engine,1,18
+It helps people find information on the internet quickly,1,18
+"Google provides many services like Gmail, Maps, and YouTube",1,18
+It uses advanced technologies like Artificial Intelligence,0,18
+Google is one of the largest companies in the world,0,18
+It makes our daily tasks easier and faster,1,18
+"Animals are living creatures that live on land, in water, and in the air",0,19
+They are an important part of nature and the environment,1,19
+Animals can be classified as wild animals and domestic animals,0,19
+"Some common animals are lion, elephant, dog, and cat",1,19
+"Animals need food, water, and shelter to survive",1,19
+"They help humans in many ways, such as providing food and companionship",0,19
+"Some animals are herbivores, carnivores, or omnivores",0,19
+We should protect animals and treat them with kindness,0,19
+"A country is a place with its own government, people, and border",1,20
+There are many countries in the world with different cultures and traditions,1,20
+India is one of the largest countries in the world,1,20
+United States is known for its advanced technology and economy,0,20
+Japan is famous for its discipline and innovation,0,20
+"Each country has its own language, currency, and national symbols",1,20
+"Countries work together for trade, peace, and development",0,20
+We should respect all countries and their diversity,1,20
+Rajinikanth is one of the biggest superstars of Indian cinema.,1,21
+His real name is Shivaji Rao Gaekwad.,1,21
+"He was born on December 12, 1950.",1,21
+His birthplace is Bengaluru.,0,21
+He initially worked as a bus conductor before entering films.,1,21
+He joined the Madras Film Institute to learn acting.,0,21
+He was introduced to cinema by director K. Balachander.,1,21
+ His debut film was Apoorva Raagangal.,1,21
+He started his career in villain and supporting roles.,0,21
+"Later, he became a leading hero in Tamil cinema.",0,21
+He is known for his unique style and mannerisms.,1,21
+His cigarette flip and dialogue delivery became iconic.,1,21
+Fans call him “Thalaivar” as a mark of respect.,1,21
+He has acted in more than 150 films.,0,21
+"Some famous movies include Baashha, Padayappa, and Enthiran.",1,21
+"He also acted in Hindi, Telugu, and Kannada films.",0,21
+He is known for his humble and simple lifestyle.,0,21
+His fans celebrate his movie releases like festivals.,0,21
+He has a huge fan base not only in India but worldwide.,0,21
+ He received the Padma Bhushan in 2000.,1,21
+He was awarded the Padma Vibhushan in 2016.,1,21
+He also received the prestigious Dadasaheb Phalke Award.,1,21
+His film Kabali was a major hit globally.,0,21
+He is respected for his discipline and spirituality.,0,21
+ Rajinikanth remains an inspiration to millions of fans around the world.,0,21
+Mark Zuckerberg is an American technology entrepreneur.,1,22
+"He was born on May 14, 1984.",1,22
+His birthplace is White Plains.,0,22
+He is best known as the co-founder of Facebook.,1,22
+He started Facebook in 2004 while studying at Harvard University.,0,22
+Facebook was originally created for college students.,1,22
+It later grew into one of the largest social media platforms in the world.,0,22
+Mark Zuckerberg is also the CEO of Meta Platforms.,1,22
+Meta focuses on building the metaverse and virtual reality.,1,22
+He is one of the youngest self-made billionaires.,1,22
+"He is known for his simple dressing style, often wearing a grey T-shirt.",1,22
+He has strong interest in programming and technology since childhood.,1,22
+He created several software programs as a student.,0,22
+He married Priscilla Chan in 2012.,1,22
+They have children together.,0,22
+He is involved in philanthropy through the Chan Zuckerberg Initiative.,1,22
+"The initiative focuses on education, science, and health.",0,22
+He has donated billions of dollars to social causes.,0,22
+Facebook acquired apps like Instagram and WhatsApp.,1,22
+He has faced criticism over privacy and data issues.,1,22
+"Despite challenges, he remains a major tech leader.",0,22
+He continues to innovate in social media and virtual reality.,0,22
+He believes in connecting people around the world.,1,22
+His journey inspires many young entrepreneurs.,0,22
+Mark Zuckerberg is one of the most influential figures in modern technology.,0,22
+A bag is a useful item for carrying things.,1,23
+People use bags in their daily life.,0,23
+Bags come in different shapes and sizes.,1,23
+"They are made from materials like cloth, leather, or plastic.",1,23
+A school bag is used by students to carry books.,1,23
+A handbag is commonly used by women.,0,23
+Travel bags help people carry clothes and essentials.,1,23
+Bags usually have handles or straps.,1,23
+Some bags have multiple compartments.,0,23
+Zippers and buttons are used to close bags.,1,23
+Bags help keep things organized.,1,23
+They are easy to carry from one place to another.,1,23
+Backpacks are worn on the shoulders.,0,23
+Eco-friendly bags are made from reusable materials.,1,23
+Plastic bags can harm the environment.,1,23
+Cloth bags are better for nature.,1,23
+Bags are available in many colors and designs.,0,23
+Some bags are waterproof.,0,23
+Laptop bags protect electronic devices.,1,23
+Bags are sold in markets and stores.,0,23
+They can be expensive or affordable.,0,23
+Many brands design stylish bags.,0,23
+Bags are also used for fashion.,0,23
+A good bag is strong and durable.,0,23
+"Overall, bags are important in everyday life.",0,23
+Sachin Tendulkar is one of the greatest cricketers in the world.,1,24
+He is also known as the “Master Blaster.”,1,24
+"He was born on April 24, 1973.",1,24
+His birthplace is Mumbai.,0,24
+He started playing cricket at a very young age.,0,24
+He made his international debut at the age of 16.,1,24
+He played for the India national cricket team for many years.,1,24
+He is famous for his excellent batting skills.,0,24
+He has scored 100 international centuries.,1,24
+He is the highest run-scorer in international cricket.,1,24
+He played both Test and One Day International matches.,0,24
+He was part of the team that won the ICC Cricket World Cup 2011.,1,24
+His contribution to cricket is unforgettable.,0,24
+He inspired many young cricketers.,0,24
+He is respected all over the world.,0,24
+"He received the Bharat Ratna, India’s highest civilian award.",1,24
+He also received the Padma Vibhushan.,1,24
+He retired from international cricket in 2013.,1,24
+"After retirement, he remains active in cricket-related activities.",0,24
+He is known for his humble and polite nature.,0,24
+Fans admire him for his dedication and discipline.,0,24
+He has also worked in charity and social service.,1,24
+He is a role model for many people.,0,24
+His life story is very inspiring.,0,24
+Sachin Tendulkar will always be remembered as a cricket legend.,0,24
+A smartphone is a modern electronic device used for communication.,1,25
+It combines the features of a mobile phone and a computer.,1,25
+People use smartphones for calling and messaging.,0,25
+They allow access to the internet anytime and anywhere.,1,25
+Smartphones have touch screens for easy use.,1,25
+They support various applications for different purposes.,0,25
+Popular apps include WhatsApp and Instagram.,0,25
+Smartphones are used for online learning and education.,1,25
+They have cameras to take photos and videos.,0,25
+Many smartphones offer high-quality cameras.,1,25
+They also support video calls and conferencing.,0,25
+Smartphones can store a large amount of data.,1,25
+They are used for entertainment like music and games.,0,25
+People watch videos on platforms like YouTube.,1,25
+Smartphones have GPS for navigation.,1,25
+They help in finding locations easily.,0,25
+They support online shopping and banking.,1,25
+Security features like passwords and fingerprint locks are available.,1,25
+Smartphones come in different brands and models.,1,25
+They are available at various price ranges.,0,25
+Battery life is an important feature of smartphones.,1,25
+Some smartphones support fast charging.,0,25
+They have become an essential part of daily life.,0,25
+Overuse of smartphones can affect health.,1,25
+"Overall, smartphones make life easier and more connected.",0,25
+A laptop is a portable computer used for many purposes.,0,25
+It is easy to carry and can be used anywhere.,1,25
+"A laptop has a screen, keyboard, and touchpad.",1,25
+It works on a rechargeable battery.,0,25
+Laptops are used for studying and office work.,1,25
+Students use laptops for online classes and assignments.,0,25
+They help in browsing the internet and researching information.,1,25
+Laptops support many software applications.,0,25
+Common uses include typing documents and creating presentations.,0,25
+People watch movies and videos on laptops.,0,25
+They are also used for gaming and entertainment.,1,25
+Laptops have storage to save files and data.,1,25
+They come with operating systems like Windows and macOS.,1,25
+Some laptops use Linux.,1,25
+They have USB ports for connecting devices.,0,25
+Wi-Fi allows laptops to connect to the internet wirelessly.,0,25
+Laptops also support Bluetooth connections.,1,25
+They have built-in speakers and microphones.,0,25
+Webcams are used for video calls.,0,25
+Laptops come in different sizes and designs.,0,25
+They are available in many price ranges.,1,25
+Battery life is an important feature of laptops.,0,25
+Proper care helps laptops last longer.,0,25
+Laptops are important tools in modern life.,1,25
+"Overall, laptops make work and learning more convenient.",1,25
+Comedy is a form of entertainment that makes people laugh.,1,26
+It is enjoyed by people of all ages.,1,26
+"Comedy can be found in movies, shows, and books.",0,26
+It helps reduce stress and improves mood.,1,26
+"Comedy includes jokes, funny stories, and humorous situations.",0,26
+There are different types of comedy like stand-up and satire.,0,26
+Stand-up comedians perform live in front of audiences.,0,26
+Comedy movies are very popular worldwide.,1,26
+Actors use expressions and timing to create humor.,0,26
+Comedy often reflects everyday life situations.,1,26
+It can also deliver important messages in a fun way.,0,26
+Famous comedians make people laugh with their talent.,1,26
+Comedy shows are broadcast on television and online platforms.,0,26
+People enjoy watching comedy with family and friends.,0,26
+Laughter is good for health and well-being.,0,26
+Comedy brings joy and happiness to life.,1,26
+It is an important part of the entertainment industry.,0,26
+Many cultures have their own style of comedy.,0,26
+Comedy can be simple or intelligent.,1,26
+It requires creativity and imagination.,0,26
+Timing plays a key role in comedy.,0,26
+Good comedy is remembered for a long time.,0,26
+It helps people forget their worries for a while.,1,26
+Comedy connects people through laughter.,1,26
+"Overall, comedy makes life more enjoyable and fun.",0,26
+Seasons are different periods of the year with distinct weather conditions.,1,27
+They are caused by the tilt of the Earth’s axis and its movement around the Sun.,1,27
+"There are four main seasons: spring, summer, autumn, and winter.",0,27
+Each season has its own unique characteristics.,0,27
+Spring is known for blooming flowers and fresh greenery.,0,27
+Summer is usually hot and sunny.,1,27
+People enjoy outdoor activities during summer.,1,27
+Autumn is the season when leaves fall from trees.,1,27
+It is also called the harvest season.,0,27
+Winter is the coldest season of the year.,0,27
+Some places experience snowfall in winter.,1,27
+Seasons affect the daily life of people.,0,27
+"They influence clothing, food, and activities.",1,27
+Farmers depend on seasons for growing crops.,0,27
+Rainy seasons are important for agriculture.,1,27
+"In countries like India, the monsoon season is very important.",0,27
+Seasons also affect animals and plants.,0,27
+Some animals hibernate during winter.,0,27
+Birds migrate during certain seasons.,0,37
+Festivals are often related to seasons.,0,27
+Each season brings different fruits and vegetables.,1,27
+Seasons make nature look beautiful and diverse.,0,27
+They help maintain balance in the environment.,0,27
+People enjoy different festivals in different seasons.,1,27
+"Overall, seasons are an important part of life on Earth.",1,27
+"Mathematics is the study of numbers, patterns, and logical relationships.",1,28
+It is one of the oldest and most fundamental fields of knowledge.,0,28
+"Mathematics is used in science, engineering, economics, and daily life.",1,28
+It helps in solving problems using logical reasoning and analytical thinking.,0,28
+"Basic branches of mathematics include arithmetic, algebra, and geometry.",1,28
+Arithmetic deals with numbers and basic operations like addition and subtraction.,1,28
+Algebra involves variables and equations to represent relationships.,0,28
+"Geometry focuses on shapes, sizes, and spatial properties.",0,28
+Calculus studies change and motion through derivatives and integrals.,1,28
+Statistics is used to analyze and interpret data.,0,28
+Mathematics plays a crucial role in computer science and programming.,1,28
+Algorithms and data structures are based on mathematical concepts.,0,28
+Mathematics improves critical thinking and decision-making skills.,0,28
+"It is essential for fields like physics, chemistry, and engineering.",1,28
+Many real-world problems can be modeled using mathematical equations.,1,28
+Mathematics is considered a universal language.,0,28
+It helps in understanding patterns in nature and the universe.,0,28
+Famous mathematicians have contributed significantly to its development.,0,28
+Mathematics is both theoretical and applied in nature.,0,28
+It requires practice and logical understanding to master.,1,28
+Many students find mathematics challenging but rewarding.,0,28
+Mathematics is used in financial calculations and business analysis.,1,28
+It is important in technology development and innovation.,0,28
+Mathematics enhances problem-solving abilities.,1,28
+It continues to evolve with new discoveries and applications.,0,28
+Democracy is a system of government where people have the power to choose their leaders.,1,29
+It allows citizens to vote and participate in decision-making processes.,1,29
+"Democracy ensures equality, freedom, and protection of individual rights.",0,29
+It encourages accountability and transparency in governance.,0,29
+"Different countries practice democracy in various forms, such as direct or representative democracy.",1,29
+"In a democracy, laws are created to protect the rights of citizens.",0,29
+The concept of majority rule is central to democratic governance.,0,29
+Minority rights are also protected to ensure fairness.,0,29
+Democracy promotes political freedom and freedom of expression.,1,29
+Elections are conducted periodically to choose representatives.,1,29
+Political parties play a vital role in organizing democratic elections.,1,29
+Citizens have the right to criticize and question their government.,1,29
+"Democracy supports the rule of law, where everyone is equal before the law.",0,29
+It encourages active participation from citizens in social and political matters.,0,29
+"Freedom of speech, press, and assembly are key pillars of democracy.",1,29
+Education about rights and responsibilities is important in a democracy.,1,29
+"Democracy can be threatened by corruption, authoritarianism, or voter suppression.",0,29
+International organizations often promote democratic practices around the world.,1,29
+Democracy allows for peaceful transfer of power after elections.,0,29
+It fosters an environment for innovation and development through citizen involvement.,0,29
+Judicial independence is important to maintain checks and balances in a democracy.,0,29
+Democracy ensures that the government is accountable to the people.,1,29
+"It allows citizens to influence policies through petitions, campaigns, and protests.",1,29
+"Global examples of democracy include countries like India, the USA, and Canada.",1,29
+The strength of democracy depends on active citizen engagement and protection of rights.,0,29
+Democracy is a system of government where people have the power to choose their leaders.,0,29
+It allows citizens to vote and participate in decision-making processes.,0,29
+"Democracy ensures equality, freedom, and protection of individual rights.",0,29
+It encourages accountability and transparency in governance.,0,29
+"Different countries practice democracy in various forms, such as direct or representative democracy.",0,29
+"In a democracy, laws are created to protect the rights of citizens.",1,29
+The concept of majority rule is central to democratic governance.,0,29
+Minority rights are also protected to ensure fairness.,1,29
+Democracy promotes political freedom and freedom of expression.,0,29
+Elections are conducted periodically to choose representatives.,0,29
+Political parties play a vital role in organizing democratic elections.,1,29
+Citizens have the right to criticize and question their government.,0,29
+"Democracy supports the rule of law, where everyone is equal before the law.",0,29
+It encourages active participation from citizens in social and political matters.,0,29
+"Freedom of speech, press, and assembly are key pillars of democracy.",0,29
+Education about rights and responsibilities is important in a democracy.,1,29
+"Democracy can be threatened by corruption, authoritarianism, or voter suppression.",0,29
+International organizations often promote democratic practices around the world.,1,29
+Democracy allows for peaceful transfer of power after elections.,0,29
+It fosters an environment for innovation and development through citizen involvement.,0,29
+Judicial independence is important to maintain checks and balances in a democracy.,0,29
+Democracy ensures that the government is accountable to the people.,1,29
+"It allows citizens to influence policies through petitions, campaigns, and protests.",0,29
+"Global examples of democracy include countries like India, the USA, and Canada.",1,29
+The strength of democracy depends on active citizen engagement and protection of rights.,0,29
+Mountains are large landforms that rise prominently above the surrounding terrain.,1,30
+They are formed through geological processes like tectonic movements and volcanic activity.,1,30
+"Mountains can have peaks, ridges, and valleys.",1,30
+They play an important role in shaping the climate of a region.,1,30
+Many rivers originate from mountain glaciers and snowfields.,0,30
+Mountains provide habitats for diverse flora and fauna.,0,30
+"They are a source of minerals, forests, and fresh water.",0,30
+"Mountain ranges include the Himalayas, Alps, Rockies, and Andes.",1,30
+"Mountains attract tourists for trekking, climbing, and sightseeing.",1,30
+High-altitude mountains have snow-capped peaks throughout the year.,1,30
+"Mountains influence weather patterns, often causing rainfall on one side.",1,30
+"They offer recreational activities like skiing, mountaineering, and camping.",0,30
+Mountains are often considered sacred in various cultures and religions.,0,30
+They help in maintaining ecological balance by supporting biodiversity.,0,30
+Mountain ecosystems are fragile and sensitive to environmental changes.,1,30
+The terrain and altitude make transportation and habitation challenging.,1,30
+Many indigenous communities live in mountainous regions with unique cultures.,0,30
+Mountains contribute to the beauty of landscapes and nature photography.,0,30
+"They act as natural barriers, affecting trade and migration.",0,30
+Mountain forests prevent soil erosion and maintain water cycles.,1,30
+The highest mountains in the world are part of the Himalayan range.,0,30
+"Mountains provide inspiration for art, literature, and folklore.",1,30
+Mountain trekking improves physical fitness and mental well-being.,0,30
+Volcanic mountains can create fertile soil for agriculture.,0,30
+Mountains continue to evolve over time due to geological processes.,1,30
+A mall is a large indoor shopping complex with multiple stores and outlets.,1,31
+"It offers a variety of products including clothing, electronics, and groceries.",0,31
+Malls provide a one-stop destination for shopping and entertainment.,0,31
+"They often have food courts with restaurants, cafes, and fast-food outlets.",0,31
+Some malls include movie theaters and gaming zones for leisure activities.,0,31
+Malls are designed to accommodate large crowds and provide a comfortable shopping experience.,1,31
+"They usually have escalators, elevators, and wide corridors for easy movement.",1,31
+Parking facilities are provided for visitors’ convenience.,1,31
+"Malls often host events, exhibitions, and seasonal promotions.",0,31
+Security personnel and surveillance systems ensure safety within the mall.,1,31
+Shoppers can enjoy both local and international brands under one roof.,1,31
+Many malls have lounges and seating areas for relaxation.,1,31
+Children’s play areas make malls family-friendly destinations.,1,31
+Shopping festivals and discounts attract more visitors to malls.,1,31
+Malls often feature aesthetically pleasing interiors and decorations.,0,31
+Air conditioning and climate control make shopping comfortable in all seasons.,0,31
+"Some malls have specialty stores like bookstores, jewelry shops, and electronics outlets.",0,31
+They serve as social hubs where people meet and interact.,1,31
+Customer service desks help visitors with inquiries and assistance.,0,31
+"Malls provide restrooms, ATMs, and other essential facilities.",1,31
+Many malls are located in urban areas near residential neighborhoods.,1,31
+Accessibility for differently-abled individuals is a key feature in modern malls.,0,31
+Food courts often offer both local and international cuisine options.,0,31
+Malls contribute to the local economy by creating jobs and supporting businesses.,1,31
+"Overall, malls combine shopping, dining, and entertainment in one location.",1,31
+Law is a system of rules created to maintain order and justice in society.,1,32
+It defines the rights and responsibilities of individuals and organizations.,1,32
+Laws are enforced by governmental institutions like police and courts.,0,32
+The main purpose of law is to protect citizens and resolve disputes.,0,32
+"There are different types of law, including criminal, civil, and constitutional law.",1,32
+Criminal law deals with offenses against society and prescribes punishments.,1,32
+Civil law addresses disputes between individuals or organizations.,1,32
+Constitutional law governs the structure and powers of government.,0,32
+International law regulates relations between countries and global organizations.,0,32
+Laws are created by legislatures and interpreted by courts.,0,32
+"Legal systems vary across countries, with common law and civil law being major types.",1,32
+Judges and lawyers play crucial roles in implementing and interpreting laws.,1,32
+Laws help in protecting human rights and ensuring equality.,0,32
+Contracts and agreements are governed by contract law.,0,32
+"Family law deals with matters like marriage, divorce, and child custody.",0,32
+"Property law regulates ownership, transfer, and use of property.",0,32
+Environmental law addresses protection of natural resources and pollution control.,0,32
+Labor law safeguards the rights of workers and employers.,0,32
+Tax laws govern collection of taxes and financial obligations.,1,32
+Laws are essential to maintain peace and social stability.,1,32
+Legal education and awareness help citizens understand their rights and duties.,0,32
+"Breaking the law can lead to fines, imprisonment, or other penalties.",1,32
+"Laws evolve over time to reflect social, economic, and technological changes.",1,32
+Ethics and morality often influence the creation of laws.,0,32
+"A strong legal system ensures justice, fairness, and the rule of law in society.",0,32
+Law is a system of rules created to maintain order and justice in society.,1,32
+It defines the rights and responsibilities of individuals and organizations.,0,32
+Laws are enforced by governmental institutions like police and courts.,0,32
+The main purpose of law is to protect citizens and resolve disputes.,1,32
+"There are different types of law, including criminal, civil, and constitutional law.",1,32
+Criminal law deals with offenses against society and prescribes punishments.,0,32
+Civil law addresses disputes between individuals or organizations.,0,32
+Constitutional law governs the structure and powers of government.,0,32
+International law regulates relations between countries and global organizations.,0,32
+Laws are created by legislatures and interpreted by courts.,1,32
+"Legal systems vary across countries, with common law and civil law being major types.",0,32
+Judges and lawyers play crucial roles in implementing and interpreting laws.,1,32
+Laws help in protecting human rights and ensuring equality.,0,32
+Contracts and agreements are governed by contract law.,0,32
+"Family law deals with matters like marriage, divorce, and child custody.",1,32
+"Property law regulates ownership, transfer, and use of property.",1,32
+Environmental law addresses protection of natural resources and pollution control.,0,32
+Labor law safeguards the rights of workers and employers.,1,32
+Tax laws govern collection of taxes and financial obligations.,0,32
+Laws are essential to maintain peace and social stability.,0,32
+Legal education and awareness help citizens understand their rights and duties.,0,32
+"Breaking the law can lead to fines, imprisonment, or other penalties.",1,32
+"Laws evolve over time to reflect social, economic, and technological changes.",1,32
+Ethics and morality often influence the creation of laws.,1,32
+"A strong legal system ensures justice, fairness, and the rule of law in society.",1,32
+"New York is a major city in the United States, located in the state of New York.",1,33
+It is one of the most populous and famous cities in the world.,1,33
+New York is often called “The Big Apple.”,1,33
+"The city is known for its skyline, featuring iconic skyscrapers like the Empire State Building.",0,33
+Times Square is a major tourist attraction and entertainment hub.,0,33
+"New York is a global center for finance, with Wall Street as its financial district.",0,33
+The city is home to the United Nations headquarters.,1,33
+Broadway theaters make New York a hub for performing arts.,0,33
+Central Park provides green space for recreation in the city.,0,33
+The Statue of Liberty is a symbol of freedom and a famous landmark.,1,33
+"New York has a diverse population, with people from all over the world.",1,33
+"It is a major center for education, with institutions like Columbia University and NYU.",0,33
+"The city has extensive public transportation, including subways and buses.",1,33
+"New York is famous for its museums, such as the Metropolitan Museum of Art.",0,33
+"It hosts cultural events, parades, and festivals throughout the year.",0,33
+"New York cuisine includes international flavors, from street food to fine dining.",1,33
+"The city’s neighborhoods, like Manhattan, Brooklyn, and Queens, have unique identities.",1,33
+"New York is a hub for media, publishing, and advertising industries.",0,33
+"Sports are popular, with teams like the Yankees and Knicks having loyal fans.",1,33
+Tourism contributes significantly to the city’s economy.,0,33
+"New York experiences all four seasons, with cold winters and hot summers.",0,33
+It is well-known for its fast-paced lifestyle and vibrant culture.,1,33
+New York is a symbol of opportunity and ambition for many people.,1,33
+"The city faces challenges like congestion, pollution, and high living costs.",0,33
+"Despite challenges, New York remains a world-renowned city of influence and innovation.",0,33
+The Indian Institutes of Technology (IITs) are premier engineering institutions in India.,0,34
+They are known for their high academic standards and rigorous selection process.,1,34
+"IITs offer undergraduate, postgraduate, and doctoral programs in engineering, science, and technology.",1,34
+Admission to IITs is highly competitive through the JEE Advanced exam.,1,34
+"These institutes focus on research, innovation, and technological development.",0,34
+"IITs have produced some of India’s most successful engineers, entrepreneurs, and scientists.",0,34
+They have world-class faculty and state-of-the-art laboratories.,0,34
+Students are encouraged to engage in problem-solving and critical thinking.,1,34
+IITs promote interdisciplinary learning and collaborative research projects.,0,34
+Many IITs have strong links with industries and research organizations.,1,34
+Entrepreneurship cells in IITs support students in starting their own companies.,1,34
+"IIT alumni have made significant contributions in technology, business, and academia globally.",1,34
+These institutes participate in international collaborations and student exchange programs.,0,34
+"IITs have modern campuses with hostels, libraries, and sports facilities.",0,34
+They regularly organize technical and cultural festivals attracting participants nationwide.,0,34
+"IITs emphasize ethics, social responsibility, and community service.",0,34
+"Research centers at IITs focus on areas like AI, robotics, nanotechnology, and renewable energy.",0,34
+Faculty and students publish research in reputed national and international journals.,0,34
+IITs continuously update their curriculum to meet global technological trends.,1,34
+"They encourage innovation competitions, hackathons, and start-up incubation.",1,34
+IITs have consistently ranked among the top engineering institutions in India.,1,34
+"The institutes foster leadership, teamwork, and communication skills among students.",0,34
+IITs contribute to India’s technological advancement and knowledge economy.,1,34
+Government funding and private partnerships support IIT research and infrastructure.,1,34
+"Overall, IITs remain a symbol of excellence, innovation, and technical education in India.",1,34
+"Kodaikanal is a beautiful hill station located in the state of Tamil Nadu, India.",1,35
+It is often called the “Princess of Hill Stations” due to its scenic beauty.,1,35
+"The town is situated at an altitude of around 2,133 meters above sea level.",0,35
+Kodaikanal is famous for its pleasant climate throughout the year.,1,35
+The hill station is surrounded by lush green forests and misty valleys.,1,35
+Kodaikanal Lake is a popular spot for boating and leisure activities.,0,35
+"The area has many waterfalls, including Silver Cascade and Bear Shola Falls.",1,35
+Coaker’s Walk offers panoramic views of the valleys and hills below.,0,35
+"Kodaikanal is home to a variety of flora and fauna, including unique species of plants and birds.",0,35
+"The hill station is famous for its parks, such as Bryant Park with colorful flowers.",1,35
+Pine forests and eucalyptus groves add to the town’s natural charm.,1,35
+"The local markets sell handmade chocolates, candles, and handicrafts.",1,35
+Kodaikanal is a popular destination for trekking and nature walks.,1,35
+The Pillar Rocks are a famous tourist attraction in the region.,0,35
+"Tourists visit Kodaikanal for peace, relaxation, and photography opportunities.",0,35
+The town has several lakeside cafes and restaurants offering local cuisine.,1,35
+Kodaikanal also has temples and churches showcasing cultural heritage.,0,35
+The hill station attracts visitors during festivals and special events.,0,35
+Sunset Point is a favorite spot to watch the evening sky over the hills.,1,35
+The area is suitable for adventure activities like cycling and horse riding.,0,35
+Kodaikanal has cozy resorts and homestays for tourists.,0,35
+Environmental conservation efforts are important to preserve its natural beauty.,0,35
+Kodaikanal’s serene environment makes it ideal for meditation and reflection.,0,35
+The town has a rich history of British colonial influence in its architecture.,1,35
+"Overall, Kodaikanal is a perfect blend of natural beauty, adventure, and tranquility.",0,35
+"Sam Altman is an American entrepreneur, investor, and programmer.",1,36
+"He was born on April 22, 1985, in Chicago, Illinois, USA.",0,36
+Altman studied computer science at Stanford University but dropped out to pursue entrepreneurship.,1,36
+He co-founded the location-based social networking company Loopt in 2005.,0,36
+He become a best person in company,0,36
+Sam Altman became the president of the startup accelerator Y Combinator in 2014.,1,36
+"Under his leadership, Y Combinator funded and supported many successful startups.",1,36
+He played a key role in shaping the modern tech startup ecosystem.,0,36
+"Altman has invested in companies like Airbnb, Reddit, Stripe, and Pinterest.",0,36
+"He co-founded OpenAI, an artificial intelligence research organization, in 2015.",1,36
+"At OpenAI, he serves as the CEO and promotes safe and beneficial AI development.",1,36
+He is a proponent of AI ethics and ensuring AI benefits humanity.,1,36
+Altman has written essays and shared insights on entrepreneurship and technology.,0,36
+He is known for his forward-thinking approach to innovation and business strategy.,0,36
+Altman supports initiatives related to universal basic income and economic reform.,1,36
+He believes in the power of technology to solve global challenges.,1,36
+Altman often mentors young entrepreneurs and tech leaders.,0,36
+He emphasizes the importance of learning from failure in business.,0,36
+He has contributed to discussions on AI governance and policy-making.,0,36
+Altman has a reputation for being visionary and intellectually curious.,1,36
+He frequently speaks at conferences and interviews about startups and AI.,0,36
+Altman focuses on long-term technological impact rather than short-term gains.,1,36
+He has inspired a generation of entrepreneurs worldwide.,0,36
+"Sam Altman continues to influence technology, business, and AI development.",1,36
+"Overall, he is regarded as one of the leading figures in modern technology and innovation.",1,36
+Music is the art of arranging sounds in a harmonious and expressive way.,1,37
+It has been a part of human culture for thousands of years.,1,37
+"Music can evoke emotions like happiness, sadness, excitement, and calm.",1,37
+"There are various genres of music, including classical, rock, jazz, pop, and folk.",0,37
+"Instruments like piano, guitar, violin, and drums are commonly used in music.",1,37
+Singing and vocal performances are also essential elements of music.,1,37
+"Music is often accompanied by rhythm, melody, and harmony.",0,37
+"It is used in celebrations, rituals, and religious ceremonies.",0,37
+Music can inspire creativity and imagination in people.,0,37
+Many cultures have their traditional music that reflects their heritage.,1,37
+"Modern technology allows music to be recorded, edited, and shared worldwide.",0,37
+Music therapy helps in improving mental and emotional well-being.,1,37
+Composers create musical pieces that convey stories or emotions.,0,37
+"Musicians perform on stages, in studios, and at various events.",1,37
+Music festivals bring together artists and audiences from different places.,0,37
+"Learning music develops skills like concentration, discipline, and coordination.",0,37
+Music can unite people and bridge cultural differences.,0,37
+"Songs often carry messages, emotions, or social themes.",1,37
+"Classical music includes compositions by masters like Mozart, Beethoven, and Bach.",0,37
+Pop music is popular worldwide and often dominates charts and media.,0,37
+Jazz and blues showcase improvisation and unique musical expressions.,1,37
+Electronic music uses digital instruments and technology for creative sounds.,1,37
+Music education is important for nurturing talent and understanding art.,1,37
+Streaming platforms allow easy access to music globally.,0,37
+"Overall, music is a universal language that enriches life and human experience.",0,37
+"Cyber security is the practice of protecting computers, networks, and data from unauthorized access.",1,38
+"It helps safeguard sensitive information like personal details, financial data, and passwords.",0,38
+"Cyber attacks can include hacking, phishing, malware, ransomware, and spyware.",1,38
+Organizations use firewalls and antivirus software to prevent cyber threats.,0,38
+Strong passwords and two-factor authentication improve online security.,1,38
+"Cyber security is essential for businesses, governments, and individuals.",0,38
+Encryption is used to protect data during transmission and storage.,1,38
+Regular software updates fix vulnerabilities and enhance security.,0,38
+Network security monitors and controls access to computer networks.,1,38
+Cyber security professionals analyze threats and respond to incidents.,0,38
+Awareness training helps users recognize phishing emails and scams.,0,38
+Cloud security protects data stored in online servers.,1,38
+Ethical hacking identifies weaknesses before malicious hackers exploit them.,0,38
+Cyber laws and regulations govern how data should be protected and used.,0,38
+Social engineering attacks manipulate people to reveal confidential information.,0,38
+Multi-layered security strategies reduce the risk of cyber breaches.,1,38
+Incident response plans prepare organizations for handling cyber attacks.,0,38
+Mobile security ensures smartphones and tablets are protected from threats.,0,38
+Internet of Things (IoT) devices require specialized security measures.,1,38
+Cyber security supports privacy and builds trust in digital systems.,1,38
+Artificial intelligence is increasingly used to detect cyber threats.,1,38
+Penetration testing simulates attacks to strengthen systems.,0,38
+Data backup and recovery plans prevent loss in case of attacks.,0,38
+Cyber security education and certifications train professionals in the field.,1,38
+"Overall, cyber security is vital in today’s digital world to protect information and infrastructure.",0,38
+Coral reefs are diverse underwater ecosystems formed by colonies of tiny coral polyps.,1,39
+They are often called the “rainforests of the sea” because of their rich biodiversity.,0,39
+"Coral reefs provide habitat for thousands of marine species, including fish, mollusks, and crustaceans.",1,39
+They help protect coastlines by reducing wave impact during storms and tsunamis.,1,39
+Healthy coral reefs contribute to local economies through tourism and fishing.,0,39
+Corals have a symbiotic relationship with tiny algae called zooxanthellae.,1,39
+These algae provide food for corals through photosynthesis.,0,39
+Coral bleaching occurs when corals are stressed due to rising water temperatures.,0,39
+Pollution and plastic waste negatively affect reef ecosystems.,1,39
+Overfishing disrupts the balance of marine life in coral reefs.,0,39
+Marine protected areas help conserve and restore reef habitats.,0,39
+Scientists study coral reefs to understand climate change and ocean health.,1,39
+Some coral species can live for hundreds of years.,1,39
+Reefs are found in tropical and subtropical oceans worldwide.,0,39
+Coral skeletons are made of calcium carbonate.,0,39
+Tourists enjoy snorkeling and diving to explore reef biodiversity.,0,39
+Coral reefs also support research in medicine and biotechnology.,0,39
+Rising sea levels and ocean acidification pose threats to reefs.,1,39
+Artificial reefs are created to help regenerate damaged areas.,1,39
+Education and awareness campaigns help protect reef ecosystems.,0,39
+Coral reefs play a vital role in sustaining marine food chains.,0,39
+Community involvement is essential for reef conservation.,1,39
+Reefs influence local climate and water quality.,0,39
+Global efforts like the International Coral Reef Initiative aim to preserve reefs.,1,39
+"Overall, coral reefs are essential for marine life, human livelihoods, and environmental balance.",0,39
+Space tourism is the commercial travel of civilians into outer space.,1,40
+It has become a growing industry with companies like SpaceX and Blue Origin.,1,40
+Suborbital flights allow tourists to experience weightlessness for a few minutes.,0,40
+Orbital tourism involves longer stays in low Earth orbit or space stations.,0,40
+Space tourists often undergo rigorous medical and physical tests before travel.,1,40
+Astronaut training includes zero-gravity simulations and emergency procedures.,1,40
+Space tourism helps inspire interest in science and space exploration.,0,40
+"The cost of a ticket to space is extremely high, limiting access to the wealthy.",0,40
+Private companies are working to reduce costs and increase safety.,1,40
+Hotels and space habitats are being planned for longer stays.,1,40
+Microgravity research benefits from the presence of tourists in space.,0,40
+Tourists experience breathtaking views of Earth from orbit.,0,40
+Space tourism raises questions about environmental impact and space debris.,1,40
+Innovations in propulsion and spacecraft design are driven by tourism demand.,0,40
+Future plans include lunar tourism and trips around Mars.,1,40
+Virtual reality helps prepare tourists for the space environment.,0,40
+Safety protocols are constantly updated as technology advances.,0,40
+Space tourism contributes to scientific funding and public engagement.,1,40
+Training also focuses on psychological preparation for isolation.,1,40
+Private companies compete to offer unique experiences and duration.,0,40
+Spaceports are being built worldwide to accommodate civilian launches.,0,40
+Regulatory authorities ensure compliance with international space laws.,1,40
+Tourism in space may eventually become more accessible and affordable.,0,40
+Ethical considerations include sustainability and the carbon footprint of launches.,1,40
+"Overall, space tourism combines adventure, technology, and the human desire to explore.",0,40
+Bioluminescent organisms are living beings that produce light through chemical reactions.,1,41
+Fireflies are the most well-known terrestrial bioluminescent insects.,1,41
+"In the ocean, jellyfish, plankton, and certain fish produce glowing light.",0,41
+"Bioluminescence is used for attracting prey, communication, or defense.",0,41
+The chemical reaction usually involves luciferin and the enzyme luciferase.,1,41
+Some deep-sea creatures use light to camouflage themselves.,0,41
+Bioluminescence can create stunning natural displays in waves and bays.,1,41
+The glow can vary in color from blue and green to red.,0,41
+Marine bioluminescence is often more visible due to dark ocean depths.,0,41
+Researchers study bioluminescence for medical and technological applications.,1,41
+Bioluminescent markers are used in genetic and biomedical research.,0,41
+Certain fungi also exhibit bioluminescent properties in forests.,1,41
+Glow worms use light to lure insects into sticky traps.,0,41
+"Bioluminescence can be seasonal or constant, depending on the species.",0,41
+"The phenomenon has inspired art, photography, and scientific studies.",0,41
+Some organisms use blinking patterns to communicate mating signals.,1,41
+Bioluminescence improves survival in low-light environments.,0,41
+Human fascination with glowing creatures has led to conservation efforts.,1,41
+Artificial bioluminescence is being explored for sustainable lighting.,1,41
+Bioluminescent bays in places like Puerto Rico attract tourists worldwide.,0,41
+It is one of nature’s most magical and mysterious phenomena.,1,41
+Understanding bioluminescence helps in evolutionary biology studies.,0,41
+It demonstrates the interplay of chemistry and biology in nature.,0,41
+Global warming and pollution threaten some bioluminescent habitats.,0,41
+"Overall, bioluminescent organisms showcase the beauty and adaptability of life.",0,41
+Ancient civilizations laid the foundations of modern human society.,1,42
+"Mesopotamia is considered the cradle of civilization, located in present-day Iraq.",1,42
+The Sumerians developed one of the earliest writing systems called cuneiform.,0,42
+"Ancient Egypt is known for its pyramids, pharaohs, and hieroglyphs.",0,42
+The Indus Valley Civilization had planned cities like Mohenjo-Daro and Harappa.,1,42
+"They excelled in trade, urban planning, and drainage systems.",1,42
+The Mayans and Aztecs thrived in Central America with complex societies.,0,42
+"Ancient Greece contributed to philosophy, democracy, and arts.",0,42
+"The Roman Empire expanded across Europe, influencing law and governance.",1,42
+Civilizations often developed religious and cultural practices to unify people.,1,42
+"Art, architecture, and literature from ancient societies still inspire today.",0,42
+"Technology like the wheel, plow, and irrigation systems emerged early.",0,42
+Trade routes connected civilizations and facilitated knowledge exchange.,0,42
+Ancient civilizations also developed early mathematics and astronomy.,1,42
+Social hierarchies and governance systems structured community life.,1,42
+"They engaged in agriculture, animal husbandry, and resource management.",0,42
+Wars and conquests shaped borders and political landscapes.,1,42
+Archaeological discoveries help us understand their lifestyles and beliefs.,0,42
+"Ancient civilizations faced challenges like climate change, droughts, and invasions.",1,42
+Education and oral traditions preserved knowledge for future generations.,0,42
+Coins and trade goods reveal economic systems of ancient societies.,1,42
+Monuments and temples showcase architectural skills.,1,42
+Legends and myths explain their religious and cultural worldview.,0,42
+Understanding ancient civilizations is key to understanding human history.,0,42
+"Overall, they represent the ingenuity, resilience, and creativity of humanity.",1,42
+Renewable energy comes from sources that are naturally replenished.,1,43
+Solar energy harnesses sunlight through photovoltaic panels.,1,44
+Wind energy uses turbines to convert wind into electricity.,0,44
+Hydropower generates electricity by using flowing water in dams and rivers.,1,44
+Geothermal energy comes from the heat within the Earth’s crust.,1,44
+Biomass energy uses organic material to produce power or fuel.,1,44
+Tidal and wave energy convert ocean movement into usable electricity.,1,44
+Renewable energy reduces dependence on fossil fuels.,1,44
+It contributes to lowering greenhouse gas emissions and climate change.,0,44
+Technological advancements have made renewable energy more efficient.,0,44
+Large-scale solar farms are built in sunny regions to produce power.,0,44
+Wind farms are often located in coastal and open areas.,0,44
+"Energy storage, like batteries, helps manage intermittent energy sources.",0,44
+Smart grids distribute renewable energy efficiently to consumers.,1,44
+Governments provide incentives to encourage renewable energy adoption.,0,44
+Research continues to improve efficiency and reduce costs.,0,44
+"Renewable energy projects create jobs in construction, maintenance, and research.",1,44
+It helps provide electricity to remote and off-grid areas.,0,44
+Community initiatives promote rooftop solar panels for households.,0,44
+Global collaboration is important to transition to clean energy.,1,44
+Electric vehicles complement renewable energy by reducing fossil fuel usage.,0,44
+Education raises awareness about the benefits of renewable energy.,0,44
+Investment in green infrastructure supports sustainable development.,1,44
+Renewable energy plays a key role in achieving environmental sustainability.,0,44
+"Overall, it is essential for a cleaner, greener, and sustainable future.",1,44
+Deep-sea life exists in the darkest and coldest parts of the ocean.,1,45
+Creatures here have adapted to extreme pressure and low temperatures.,1,45
+Many species use bioluminescence to attract prey or communicate.,0,45
+Giant squids are one of the largest deep-sea predators.,0,45
+Anglerfish have a glowing lure to entice smaller fish.,1,45
+The deep sea hosts unusual species like the vampire squid and gulper eel.,0,45
+Some organisms survive without sunlight by relying on chemosynthesis.,1,45
+Hydrothermal vents provide energy for unique ecosystems.,1,45
+Tube worms thrive near these vents without needing sunlight.,0,45
+Deep-sea corals form habitats for fish and invertebrates.,0,45
+Many species are still undiscovered due to the ocean’s vastness.,1,45
+Exploration uses remotely operated vehicles and submersibles.,1,45
+"Temperature, pressure, and salinity shape deep-sea biodiversity.",0,45
+"Adaptations include large eyes, slow metabolism, and bioluminescence.",0,45
+Predators use ambush tactics due to scarce prey availability.,0,45
+Scavengers feed on marine snow falling from upper layers.,1,45
+Research helps understand evolution and extreme survival strategies.,0,45
+Deep-sea ecosystems are threatened by deep-sea mining and pollution.,1,45
+Conservation efforts aim to protect fragile habitats.,0,45
+Knowledge of deep-sea life informs medicine and biotechnology.,1,45
+Some species exhibit long lifespans due to slow growth rates.,0,45
+The Mariana Trench is the deepest part of the ocean with unique life.,0,45
+Scientists continue to find new species regularly.,1,45
+Deep-sea life remains one of the least explored frontiers on Earth.,1,45
+Exploring it expands our understanding of life’s diversity and resilience.,1,45
+"Volcanoes are openings in the Earth’s crust that release magma, ash, and gases.",0,45
+Magma that reaches the surface is called lava.,0,45
+"Volcanoes can be classified as shield, composite, or cinder cone.",1,45
+"Active volcanoes erupt regularly, while dormant ones are temporarily inactive.",1,45
+Extinct volcanoes have no recorded eruptions in history.,0,45
+Volcanic eruptions can be explosive or effusive.,0,45
+"Explosive eruptions produce ash clouds, pyroclastic flows, and lava bombs.",1,45
+Effusive eruptions produce gentle lava flows over large areas.,1,45
+Volcanoes form at tectonic plate boundaries or hotspots.,1,45
+Ring of Fire in the Pacific Ocean has many active volcanoes.,0,45
+Volcanic soil is rich in minerals and supports agriculture.,0,45
+Volcanoes create new landforms like islands and mountains.,1,45
+Hot springs and geysers are often associated with volcanic activity.,0,45
+"Volcano monitoring uses seismographs, gas sensors, and satellites.",1,45
+Eruption predictions help in disaster preparedness and evacuation.,0,45
+Volcanoes impact climate by releasing aerosols and greenhouse gases.,0,45
+Volcanic ash can disrupt air travel and damage infrastructure.,0,45
+Lava tubes and caves form during eruptions and lava flows.,1,45
+"Volcanic rocks include basalt, andesite, and pumice.",1,45
+Ancient civilizations settled near volcanoes due to fertile soil.,0,45
+Volcano tourism attracts adventurous travelers worldwide.,0,45
+Volcanic eruptions have influenced human history and mythology.,0,45
+Understanding volcanoes helps geologists study Earth’s interior.,1,45
+"Eruption hazards include lava flows, landslides, and lahars.",1,45
+"Overall, volcanoes shape the planet and pose both risks and benefits.",0,45
+Traditional crafts reflect cultural heritage and artistic skills.,1,46
+"They include weaving, pottery, embroidery, wood carving, and metalwork.",1,46
+Many crafts are passed down through generations.,0,46
+"Crafts often use locally sourced materials like clay, bamboo, and cotton.",1,46
+Weaving produces textiles with unique patterns and colors.,1,46
+Pottery involves shaping clay into functional or decorative items.,0,46
+Embroidery adds intricate designs to fabrics using thread and needle.,0,46
+"Wood carving produces statues, furniture, and ornamental objects.",0,46
+"Metalwork includes jewelry, utensils, and decorative pieces.",1,46
+"Traditional crafts are influenced by religion, festivals, and local stories.",1,46
+Artisans often undergo apprenticeships to master their craft.,0,46
+Markets and exhibitions showcase handmade crafts to global audiences.,0,46
+Tourism supports the survival of traditional craft communities.,0,46
+"Craftsmanship emphasizes patience, precision, and creativity.",1,46
+Some crafts have been recognized as UNESCO intangible cultural heritage.,0,46
+Modern designers incorporate traditional motifs in contemporary products.,0,46
+Sustainable practices encourage using eco-friendly materials.,1,46
+Digital platforms help artisans sell products worldwide.,1,46
+Government schemes provide training and financial support to artisans.,1,46
+Crafts contribute to cultural identity and community pride.,0,46
+Artisan cooperatives promote collaboration and resource sharing.,1,46
+Craft fairs preserve traditional techniques and educate the public.,1,46
+Some crafts are endangered due to industrialization and mass production.,0,46
+Promoting crafts supports livelihoods and cultural preservation.,1,46
+"Overall, traditional crafts connect people to their heritage and creativity.",1,46
+Traditional crafts reflect cultural heritage and artistic skills.,1,47
+"They include weaving, pottery, embroidery, wood carving, and metalwork.",0,47
+Many crafts are passed down through generations.,1,47
+"Crafts often use locally sourced materials like clay, bamboo, and cotton.",1,47
+Weaving produces textiles with unique patterns and colors.,1,47
+Pottery involves shaping clay into functional or decorative items.,0,47
+Embroidery adds intricate designs to fabrics using thread and needle.,0,47
+"Wood carving produces statues, furniture, and ornamental objects.",0,47
+"Metalwork includes jewelry, utensils, and decorative pieces.",0,47
+"Traditional crafts are influenced by religion, festivals, and local stories.",0,47
+Artisans often undergo apprenticeships to master their craft.,0,47
+Markets and exhibitions showcase handmade crafts to global audiences.,1,47
+Tourism supports the survival of traditional craft communities.,1,47
+"Craftsmanship emphasizes patience, precision, and creativity.",0,47
+Some crafts have been recognized as UNESCO intangible cultural heritage.,1,47
+Modern designers incorporate traditional motifs in contemporary products.,0,47
+Sustainable practices encourage using eco-friendly materials.,0,47
+Digital platforms help artisans sell products worldwide.,0,47
+Government schemes provide training and financial support to artisans.,1,47
+Crafts contribute to cultural identity and community pride.,0,47
+Artisan cooperatives promote collaboration and resource sharing.,1,47
+Craft fairs preserve traditional techniques and educate the public.,0,47
+Some crafts are endangered due to industrialization and mass production.,0,47
+Promoting crafts supports livelihoods and cultural preservation.,1,47
+"Overall, traditional crafts connect people to their heritage and creativity.",1,47
+Wildlife conservation protects animal species and their habitats.,1,48
+"Deforestation, poaching, and pollution threaten wildlife worldwide.",1,48
+Endangered species require urgent conservation efforts.,0,48
+National parks and wildlife reserves provide protected habitats.,1,48
+Conservationists monitor populations using camera traps and tracking devices.,1,48
+Breeding programs help increase numbers of endangered animals.,0,48
+Community involvement is essential for successful conservation.,0,48
+Laws and regulations prohibit hunting and trading of endangered species.,1,48
+Wildlife corridors allow animals to migrate safely between habitats.,0,48
+Reforestation restores degraded ecosystems for wildlife.,0,48
+Education raises awareness about the importance of biodiversity.,1,48
+Ecotourism supports conservation funding and local economies.,0,48
+"Research helps understand species’ behavior, diet, and reproduction.",1,48
+Climate change affects migration patterns and food availability.,0,48
+Invasive species disrupt native ecosystems and threaten wildlife.,0,48
+Zoos and aquariums play a role in education and species preservation.,0,48
+"Species like tigers, elephants, and rhinos face high risk of extinction.",1,48
+"Marine conservation protects coral reefs, turtles, and fish populations.",0,48
+Volunteer programs engage the public in conservation activities.,1,48
+"Technology, like drones and satellite imaging, aids monitoring efforts.",0,48
+Wildlife conservation balances human development and ecological needs.,0,48
+Habitat restoration projects improve biodiversity and ecosystem health.,0,48
+Conservation organizations work globally to protect endangered species.,1,48
+Sustainable practices reduce human-wildlife conflicts.,1,48
+"Overall, wildlife conservation ensures a healthy planet for future generations.",0,48
+Astronomy is the scientific study of celestial objects and the universe.,1,49
+"It includes planets, stars, galaxies, asteroids, and comets.",0,49
+Telescopes allow astronomers to observe distant objects in space.,1,49
+The Milky Way is the galaxy that contains our solar system.,1,49
+The Sun is a medium-sized star that provides energy for life on Earth.,1,49
+Planets orbit stars due to gravitational forces.,0,49
+The Moon affects tides and provides light during the night.,1,49
+Black holes are regions of space with extremely strong gravity.,0,49
+Nebulae are clouds of gas and dust where stars are born.,0,49
+Exoplanets are planets outside our solar system.,0,49
+Astronomers use spectroscopy to analyze the composition of celestial objects.,1,49
+"Space missions explore planets, asteroids, and distant galaxies.",1,49
+"Cosmology studies the origin, evolution, and structure of the universe.",0,49
+The Big Bang theory explains the universe’s beginning.,0,49
+"Supernovae are explosions of massive stars, creating heavy elements.",0,49
+Comets have icy cores and develop tails when approaching the Sun.,1,49
+Meteor showers occur when Earth passes through debris from comets.,0,49
+Observatories on Earth and in space gather data for analysis.,0,49
+"Satellites monitor weather, communications, and global positioning.",0,49
+Astronomy inspires curiosity and technological advancements.,1,49
+Astronauts study space in low Earth orbit aboard space stations.,1,49
+Telescopes like Hubble provide deep-space images and discoveries.,0,49
+Gravitational waves reveal collisions of massive cosmic objects.,1,49
+Astronomy helps understand Earth’s place in the cosmos.,0,49
+"Overall, astronomy explores the wonders, mysteries, and vastness of space.",1,49
+Extreme weather phenomena are intense natural events that affect life and property.,1,50
+Hurricanes are powerful storms with strong winds and heavy rainfall.,1,50
+Tornadoes are rotating columns of air that cause localized destruction.,0,50
+Floods result from excessive rainfall or overflowing rivers.,0,50
+Droughts occur due to prolonged periods of low rainfall.,1,50
+"Heatwaves bring extreme temperatures, affecting health and agriculture.",0,50
+"Blizzards involve heavy snowfall and strong winds, reducing visibility.",0,50
+Cyclones are large storm systems that form over warm oceans.,0,50
+"Thunderstorms produce lightning, thunder, and heavy precipitation.",1,50
+Hailstorms involve ice pellets falling from the sky.,1,50
+Sandstorms and dust storms occur in arid regions.,0,50
+"Wildfires can be fueled by dry, hot, and windy conditions.",1,50
+Monsoons bring seasonal heavy rainfall in tropical regions.,0,50
+El Niño and La Niña influence global weather patterns.,0,50
+Storm surges amplify flooding during coastal storms.,1,50
+Climate change intensifies the frequency and severity of extreme events.,1,50
+Disaster management plans help communities prepare for extreme weather.,0,50
+Early warning systems reduce casualties and property loss.,1,50
+Infrastructure resilience is critical during extreme events.,0,50
+Insurance protects against financial losses from weather damage.,1,50
+Agriculture adapts through crop planning and irrigation strategies.,1,50
+Urban planning mitigates the impact of floods and storms.,0,50
+Scientists model and predict extreme weather using advanced technology.,0,50
+Public awareness campaigns educate about safety measures.,0,50
+"Overall, understanding extreme weather phenomena is vital for survival and adaptation.",1,50
+"Global festivals celebrate culture, religion, art, and community.",1,51
+"They include events like Diwali, Christmas, Hanami, and Rio Carnival.",0,51
+"Festivals often involve music, dance, food, and rituals.",1,51
+Cultural festivals preserve traditions and historical practices.,1,51
+"Religious festivals celebrate deities, saints, or significant events.",0,51
+Food plays an important role in festival celebrations.,0,51
+Festivals foster social bonding and community participation.,1,51
+"National holidays commemorate independence, founding, or achievements.",1,51
+Street parades and processions are common in many festivals.,0,51
+Art exhibitions and performances showcase creativity and talent.,0,51
+Globalization allows festivals to be celebrated across countries.,1,51
+Tourists travel to experience local festival culture.,0,51
+Traditional clothing and costumes are often worn during festivals.,0,51
+Fireworks are used in celebrations like New Year’s Eve and Diwali.,1,51
+"Festivals promote local crafts, art, and economy.",0,51
+Music and dance performances entertain and engage audiences.,1,51
+"Some festivals last several days, while others are one-day events.",0,51
+"Festivals provide spiritual, recreational, and educational experiences.",1,51
+"Seasonal festivals celebrate harvest, spring, or winter solstice.",1,51
+"Religious processions often include chants, prayers, and offerings.",0,51
+International festivals foster cross-cultural understanding.,0,51
+Digital platforms allow virtual participation in global celebrations.,0,51
+Volunteers and organizers play a key role in managing festivals.,1,51
+Festivals boost tourism and local businesses.,1,51
+"Overall, global festivals connect people, culture, and joy worldwide.",0,51
+Ancient trade routes connected civilizations for commerce and cultural exchange.,1,52
+"The Silk Road linked China, India, Persia, and Europe.",1,52
+"Goods like silk, spices, precious stones, and metals were traded.",0,52
+"Caravans used camels, horses, and boats for long-distance transport.",1,52
+"Trade routes facilitated the spread of ideas, religion, and technology.",0,52
+Ports and coastal cities developed as hubs of commerce.,0,52
+"The Incense Route connected Arabia, Egypt, and the Mediterranean.",0,52
+"Roads, bridges, and waystations enabled safer travel.",1,52
+"Merchants faced challenges like bandits, weather, and difficult terrain.",0,52
+Coins and currency systems evolved to standardize trade.,1,52
+"Trade influenced language, cuisine, and cultural practices.",1,52
+"Goods like tea, paper, and glass spread along these routes.",1,52
+"Silk Road cities became centers of art, learning, and innovation.",0,52
+The Trans-Saharan trade connected West Africa with the Mediterranean.,0,52
+Caravanserais provided rest and protection for travelers.,1,52
+Trade routes helped establish diplomatic and economic alliances.,1,52
+Maps and navigation tools improved over time for safer journeys.,1,52
+"Religious beliefs, such as Buddhism and Islam, spread along trade networks.",0,52
+Trade encouraged technological advancements in shipbuilding and transportation.,1,52
+Merchants acted as intermediaries for luxury goods.,0,52
+"Silk, spices, and ceramics were highly prized commodities.",0,52
+Goods exchange fostered mutual understanding between distant regions.,1,52
+"Decline occurred due to wars, piracy, and maritime discoveries.",0,52
+Preserving historical trade route knowledge informs modern logistics and commerce.,1,52
+"Overall, ancient trade routes shaped global civilization, economy, and culture.",1,52
